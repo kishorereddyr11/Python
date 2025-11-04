@@ -1,0 +1,1 @@
+{"alice": 4, "natural": 1}
